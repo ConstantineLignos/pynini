@@ -1,6 +1,6 @@
 # OpenGrm Pynini
 
-This is a a Python extension module for compiling, optimizing and applying
+This is a Python extension module for compiling, optimizing and applying
 grammar rules. Rules can be compiled into weighted finite state transducers,
 pushdown transducers, or multi-pushdown transducers. It uses OpenFst
 finite-state transducers (FSTs) and FST archives (FArs) as inputs and outputs.
